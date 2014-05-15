@@ -1,0 +1,3 @@
+this the first file
+added to git 
+repository test
